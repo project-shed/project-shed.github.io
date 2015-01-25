@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   wooden blocks to stop the spaceman and the other removing them. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://team-shed.github.io" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
 github_username:  team-shed
 
 # Build settings
